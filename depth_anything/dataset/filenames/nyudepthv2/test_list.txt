@@ -1,0 +1,10 @@
+/bathroom/rgb_00045.jpg /bathroom/sync_depth_00045.png
+/bathroom/rgb_00046.jpg /bathroom/sync_depth_00046.png
+/bathroom/rgb_00507.jpg /bathroom/sync_depth_00507.png
+/bathroom/rgb_00508.jpg /bathroom/sync_depth_00508.png
+/bathroom/rgb_00509.jpg /bathroom/sync_depth_00509.png
+/bathroom/rgb_00510.jpg /bathroom/sync_depth_00510.png
+/bathroom/rgb_00511.jpg /bathroom/sync_depth_00511.png
+/bathroom/rgb_00512.jpg /bathroom/sync_depth_00512.png
+/bathroom/rgb_00649.jpg /bathroom/sync_depth_00649.png
+/bathroom/rgb_00650.jpg /bathroom/sync_depth_00650.png

@@ -1,0 +1,6 @@
+[submodule "dataset/VFDepth/external/dgp"]
+	path = dataset/VFDepth/external/dgp
+	url = https://github.com/TRI-ML/dgp.git
+[submodule "dataset/VFDepth/external/packnet_sfm"]
+	path = dataset/VFDepth/external/packnet_sfm
+	url = https://github.com/TRI-ML/packnet-sfm.git

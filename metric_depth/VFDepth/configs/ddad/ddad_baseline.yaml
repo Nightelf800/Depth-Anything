@@ -1,0 +1,17 @@
+model:
+  num_layers: 18
+  weights_init: True
+
+  #ablation - choose between fusion model(fusion) and baseline model(fsm)
+  depth_model: 'fsm'
+  pose_model: 'fsm'
+
+data:
+  data_path: '/home/ylc/datasets/DDAD/ddad_train_val/ddad2.json'
+  dataset: 'ddad'
+  back_context: 1
+  forward_context: 1
+  depth_type: 'lidar'
+  cameras: ['camera_01', 'camera_05', 'camera_06', 'camera_07', 'camera_08', 'camera_09']
+  train_requirements: (gt_pose, gt_depth, mask)
+  val_requirements: (gt_pose, gt_depth, mask)
